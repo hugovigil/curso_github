@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-printf("Adiós Mundo\n");
+printf("Adiós Mundin mazo\n");
 return 0;
 }
